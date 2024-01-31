@@ -3,4 +3,8 @@ import shutil
 here = os.getcwd()
 print(here)
 work_path = here
-print(work_path)
+count = 0
+for file in os.listdir(work_path):
+    count+=1
+    print(file)
+print(count)
