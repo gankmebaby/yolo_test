@@ -10,3 +10,4 @@ for file in os.listdir(work_path):
     print(file)
     print(count)
 print('main')
+print('ok')
