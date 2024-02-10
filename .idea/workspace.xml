@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47de745f-4336-47b2-ba5c-e66d016620d6" name="更改" comment="导入库">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01导入库.py" beforeDir="false" afterPath="$PROJECT_DIR$/01导入库.py" afterDir="false" />
+    <list default="true" id="47de745f-4336-47b2-ba5c-e66d016620d6" name="更改" comment="put函数">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Shell Script.test.sh">
     <configuration name="00斜杠转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yolo_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,8 +133,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/test.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Shell Script.test.sh" />
         <item itemvalue="Python.01导入库" />
         <item itemvalue="Python.00斜杠转换" />
       </list>
@@ -154,7 +169,7 @@
       <workItem from="1706710965859" duration="1208000" />
       <workItem from="1707194262468" duration="859000" />
       <workItem from="1707362281190" duration="2594000" />
-      <workItem from="1707578268646" duration="450000" />
+      <workItem from="1707578268646" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="count=1">
       <option name="closed" value="true" />
@@ -180,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707370160700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="put函数">
+      <option name="closed" value="true" />
+      <created>1707578749506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707578749506</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +213,8 @@
     <MESSAGE value="Merge branch 'hot-fix'&#10;&#10;# Conflicts:&#10;#&#9;main.py" />
     <MESSAGE value="count=1" />
     <MESSAGE value="导入库" />
-    <option name="LAST_COMMIT_MESSAGE" value="导入库" />
+    <MESSAGE value="put函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="put函数" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1707578486532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
