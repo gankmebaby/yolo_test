@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47de745f-4336-47b2-ba5c-e66d016620d6" name="更改" comment="count=1">
-      <change afterPath="$PROJECT_DIR$/00斜杠转换.py" afterDir="false" />
+    <list default="true" id="47de745f-4336-47b2-ba5c-e66d016620d6" name="更改" comment="导入库">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01导入库.py" beforeDir="false" afterPath="$PROJECT_DIR$/01导入库.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/yolo_test",
+    "last_opened_file_path": "D:/xshell",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +66,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.00斜杠转换">
+  <component name="RunManager" selected="Python.main">
     <configuration name="00斜杠转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yolo_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +81,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00斜杠转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01导入库" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolo_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01导入库.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,6 +136,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01导入库" />
         <item itemvalue="Python.00斜杠转换" />
       </list>
     </recent_temporary>
@@ -130,7 +153,8 @@
       <workItem from="1706707721295" duration="1818000" />
       <workItem from="1706710965859" duration="1208000" />
       <workItem from="1707194262468" duration="859000" />
-      <workItem from="1707362281190" duration="2034000" />
+      <workItem from="1707362281190" duration="2594000" />
+      <workItem from="1707578268646" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="count=1">
       <option name="closed" value="true" />
@@ -140,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706711434565</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="count=1">
+      <option name="closed" value="true" />
+      <created>1707369775096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707369775096</updated>
+    </task>
+    <task id="LOCAL-00003" summary="导入库">
+      <option name="closed" value="true" />
+      <created>1707370160700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707370160700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,11 +189,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'hot-fix'&#10;&#10;# Conflicts:&#10;#&#9;main.py" />
     <MESSAGE value="count=1" />
-    <option name="LAST_COMMIT_MESSAGE" value="count=1" />
+    <MESSAGE value="导入库" />
+    <option name="LAST_COMMIT_MESSAGE" value="导入库" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1707195194451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1707578486532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/main_py$00.coverage" NAME="00斜杠转换 覆盖结果" MODIFIED="1707369610887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/yolo_test$main.coverage" NAME="main 覆盖结果" MODIFIED="1706711184687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$01.coverage" NAME="01导入库 覆盖结果" MODIFIED="1707578421023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
